@@ -8,7 +8,7 @@ Implemented End-points: login,register
 
 ```bash
 $ npm install
-$ npm run start-auth
+$ npm run start
 ```
 
 Might need to run
